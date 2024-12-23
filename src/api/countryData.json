@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "CountryName": "Australia",
+      "Capital": "Canberra",
+      "Population": 25687041,
+      "interestingFact": "Australia is the only country that is also a continent.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Australia.svg"
+    },
+    {
+      "id": 2,
+      "CountryName": "Canada",
+      "Capital": "Ottawa",
+      "Population": 38005238,
+      "interestingFact": "Canada has the longest coastline of any country in the world.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg"
+    },
+    {
+      "id": 3,
+      "CountryName": "Brazil",
+      "Capital": "Brasília",
+      "Population": 211049527,
+      "interestingFact": "Brazil is home to the Amazon Rainforest, the largest rainforest in the world.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+    },
+    {
+      "id": 4,
+      "CountryName": "Germany",
+      "Capital": "Berlin",
+      "Population": 83166711,
+      "interestingFact": "Germany is known for its rich history, beer, and beautiful castles.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+    },
+    {
+      "id": 5,
+      "CountryName": "Japan",
+      "Capital": "Tokyo",
+      "Population": 126300000,
+      "interestingFact": "Japan has over 6,800 islands.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg"
+    },
+    {
+      "id": 6,
+      "CountryName": "India",
+      "Capital": "New Delhi",
+      "Population": 1393409038,
+      "interestingFact": "India has the largest population of any country in the world, except for China.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
+    },
+    {
+      "id": 7,
+      "CountryName": "Mexico",
+      "Capital": "Mexico City",
+      "Population": 128933000,
+      "interestingFact": "Mexico is home to the ancient Mayan and Aztec civilizations.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+    },
+    {
+      "id": 8,
+      "CountryName": "South Africa",
+      "Capital": "Pretoria (administrative), Bloemfontein (judicial), Cape Town (legislative)",
+      "Population": 59308690,
+      "interestingFact": "South Africa has 11 official languages.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+    },
+    {
+      "id": 9,
+      "CountryName": "Russia",
+      "Capital": "Moscow",
+      "Population": 145912025,
+      "interestingFact": "Russia spans 11 time zones, the most of any country in the world.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+    },
+    {
+      "id": 10,
+      "CountryName": "United States",
+      "Capital": "Washington, D.C.",
+      "Population": 331893745,
+      "interestingFact": "The United States has the largest economy in the world.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+    },
+    {
+      "id": 11,
+      "CountryName": "France",
+      "Capital": "Paris",
+      "Population": 67200000,
+      "interestingFact": "France is the most visited country in the world.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    {
+      "id": 12,
+      "CountryName": "China",
+      "Capital": "Beijing",
+      "Population": 1393409038,
+      "interestingFact": "China is the most populous country in the world.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_China.svg"
+    },
+    {
+      "id": 13,
+      "CountryName": "Italy",
+      "Capital": "Rome",
+      "Population": 60262770,
+      "interestingFact": "Italy is home to the most UNESCO World Heritage sites in the world.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+    },
+    {
+      "id": 14,
+      "CountryName": "Egypt",
+      "Capital": "Cairo",
+      "Population": 102334404,
+      "interestingFact": "Egypt is home to the Great Pyramids of Giza, one of the Seven Wonders of the Ancient World.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+    },
+    {
+      "id": 15,
+      "CountryName": "Argentina",
+      "Capital": "Buenos Aires",
+      "Population": 45195777,
+      "interestingFact": "Argentina is known for its tango dancing and delicious beef.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    }
+]
