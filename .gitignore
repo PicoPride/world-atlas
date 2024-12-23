@@ -13,7 +13,6 @@ dist-ssr
 *.local
 
 
-getCountryData.jsx
 
 # Editor directories and files
 .vscode/*
