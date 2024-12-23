@@ -19,7 +19,7 @@ html {
 
 a {
   text-decoration: none;
-  color: #fff;
+  color: inherit;
 }
 li {
   list-style: none;

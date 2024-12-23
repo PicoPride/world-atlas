@@ -11,3 +11,13 @@ export const getCountryData = () => {
     "/all?fields=name,capital,flags,population,area,languages,currencies"
   );
 };
+
+
+// Http get method to get individual country data
+
+
+export const getIndCountryData = (name) => {
+  return api.get(
+    `/name/${name}?fullText=true&fields=name,capital,flags,population,area,languages,currencies,region,subregion,tld,borders`
+  );
+};
