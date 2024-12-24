@@ -1,9 +1,8 @@
 export const Contact = () => {
-  const handleFormSubmit  = (formData) => {
-      const formfieldData = Object.fromEntries(formData.entries());
-      console.log(formfieldData);
-      
-  }
+  const handleFormSubmit = (formData) => {
+    const formfieldData = Object.fromEntries(formData.entries());
+    console.log(formfieldData);
+  };
   return (
     <section className="contact-section">
       <div className="container">
@@ -11,7 +10,7 @@ export const Contact = () => {
           <div className="col-lg-12 col-md-12">
             <h2 className="contact-title">Contact Us</h2>
             <div className="contact-form">
-              <form action={handleFormSubmit} >
+              <form action={handleFormSubmit}>
                 <input
                   type="text"
                   placeholder="Enter Your Name"
@@ -27,7 +26,7 @@ export const Contact = () => {
                   className="form-control"
                   required
                   autoComplete="off"
-                  />
+                />
                 <textarea
                   placeholder="Enter Your Message"
                   name="textarea"
@@ -36,7 +35,9 @@ export const Contact = () => {
                   rows="10"
                   autoComplete="off"
                 />
-                <button className="submit-btn" value='send' type="submit" >Send</button>
+                <button className="submit-btn" value="send" type="submit">
+                  Send
+                </button>
               </form>
             </div>
           </div>
